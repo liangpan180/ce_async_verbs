@@ -1,0 +1,10 @@
+*.a
+*.d
+*.gcda
+*.gcno
+*.o
+*~
+*.swp
+tags
+dpdk-*
+CUnit-Memory-Dump.xml
