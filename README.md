@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ============================================
 Ceph - a scalable distributed storage system
 ============================================
@@ -212,3 +213,10 @@ To build the documentation, ensure that you are in the top-level
 
 	admin/build-doc
 
+=======
+# ce_async_verbs
+
+起始于https://github.com/yuyuyu101/ceph下的wip-rdma分支下
+
+commint id: 289fad15008d....  keep send after shutdown errno same with posix
+>>>>>>> tmp
